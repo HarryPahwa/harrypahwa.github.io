@@ -331,7 +331,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: office 2s ease;
 }
 .solidworks {
-  	width: 93%;
+  	width: 100%;
   	-moz-animation: solidworks 2s ease;
   	-webkit-animation: solidworks 2s ease;
 }
